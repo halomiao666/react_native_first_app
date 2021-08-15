@@ -7,6 +7,7 @@ import User from './pages/user/user';
 
 const Tab = createBottomTabNavigator();
 
+
 const App = () => {
   return (
     <NavigationContainer>
